@@ -3,4 +3,4 @@ project(hit_pre_course C)
 
 set(CMAKE_C_STANDARD 11)
 
-add_executable(hit_pre_course 4-loops/fizzBuzz.c)
+add_executable(hit_pre_course 4-loops/1-fizzBuzz.c)
